@@ -1,7 +1,13 @@
 # Docker
 
+## First steps with Docker
+
+If you have not already installed and setup Docker, see the below [Setup](#setup) section.
+
+For your first step to learning Docker, watch/go through [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=pTFZFxd4hOI) and then the [Docker beginning practice](./docker_practice_beginners.md).
+
 ## Setup
-How you need to go about installing Docker on your system varies. Below are instructions for MacOS, GNU/Linux, and Windows.
+How you need to go about installing Docker on your system varies. Below are instructions for [MacOS](#macos), [GNU/Linux](#linux), and [Windows](#windows).
 
 ### MacOS
 MacOS currently has the simplest installation - just visit [the Docker website](https://www.docker.com/products/docker-desktop/) and install/open the `.dmg` file to install.
